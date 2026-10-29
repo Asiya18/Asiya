@@ -11,7 +11,7 @@
 
 *Building AI systems. Investigating their errors. Making them better.*
 
-[GitHub](https://github.com/Asiya18/Asiya/) · [LinkedIn]((https://www.linkedin.com/in/ashiya-tamboli-176747357/))
+[GitHub](https://github.com/Asiya18/Asiya/) · [LinkedIn](https://www.linkedin.com/in/ashiya-tamboli-176747357/)
 
 </div>
 
