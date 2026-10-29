@@ -1,7 +1,7 @@
 # Asiya
 
 <div align="center">
-  <img src="banner.png" alt="Building better AI" width="100%">
+  <img src="banner.jpg" alt="Building better AI" width="100%">
 </div>
 <br/>
 
@@ -11,7 +11,7 @@
 
 *Building AI systems. Investigating their errors. Making them better.*
 
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](YOUR_LINKEDIN_URL)
+[GitHub](https://github.com/Asiya18/Asiya/) · [LinkedIn]((https://www.linkedin.com/in/ashiya-tamboli-176747357/))
 
 </div>
 
