@@ -1,5 +1,9 @@
 # Asiya
+
 <div align="center">
+  <img src="banner.png" alt="Building better AI" width="100%">
+</div>
+<br/>
 
 # Asiya Tamboli
 
